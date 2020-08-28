@@ -1,4 +1,4 @@
-package com.rockthejvm.numbers
+package solutions.numbers
 
 import scala.util.Random
 

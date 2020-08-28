@@ -1,4 +1,4 @@
-package com.rockthejvm.trees
+package solutions.trees
 
 import scala.annotation.tailrec
 

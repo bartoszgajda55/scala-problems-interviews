@@ -1,4 +1,4 @@
-package com.rockthejvm.playground
+package solutions.playground
 
 /**
   * This simple application is a place where you can try out any Scala code you like.

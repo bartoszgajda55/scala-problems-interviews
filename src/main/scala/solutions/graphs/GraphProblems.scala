@@ -1,4 +1,4 @@
-package com.rockthejvm.graphs
+package solutions.graphs
 
 import scala.annotation.tailrec
 

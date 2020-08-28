@@ -1,4 +1,4 @@
-package com.rockthejvm.lists
+package solutions.lists
 
 import scala.annotation.tailrec
 import scala.util.Random

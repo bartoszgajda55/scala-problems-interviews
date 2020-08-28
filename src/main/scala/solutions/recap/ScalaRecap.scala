@@ -1,4 +1,4 @@
-package com.rockthejvm.recap
+package solutions.recap
 
 /**
   * This simple application serves as a playground for the Scala features we are going to use in this course.

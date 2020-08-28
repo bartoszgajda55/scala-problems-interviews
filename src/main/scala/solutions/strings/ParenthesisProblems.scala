@@ -1,4 +1,4 @@
-package com.rockthejvm.strings
+package solutions.strings
 
 import scala.annotation.tailrec
 

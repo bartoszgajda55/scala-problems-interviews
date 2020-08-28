@@ -1,4 +1,4 @@
-package com.rockthejvm.various
+package solutions.various
 
 object SierpinskiTriangles extends App {
 
